@@ -5,8 +5,8 @@ The features of this project are:
 2. add my personal comments/notes in each chapter
 
 这个项目的特点有：
-1.提供了TensorFlow Keras官方指导的中文版本
-2.在每一个章节加入了我个人的评价和笔记内容
+1. 提供了TensorFlow Keras官方指导的中文版本
+2. 在每一个章节加入了我个人的评价和笔记内容
 
 Note:
 1. all code and English content are from TensorFlow Keras officical tutorial guide
@@ -46,9 +46,9 @@ Note:
 6. 使用预处理层 ([翻译版](https://github.com/Carloszone/Tensorflow-Keras-tutorial-Tensorflow-Keras-/blob/main/Keras/Working%20with%20preprocessing%20layers.ipynb)，[原版](https://www.tensorflow.org/guide/keras/preprocessing_layers))
 7. 自定义 Model.fit 的内容 ([原版/官中版](https://www.tensorflow.org/guide/keras/customizing_what_happens_in_fit))
 8. 从头编写训练循环 ([原版/官中版](https://www.tensorflow.org/guide/keras/writing_a_training_loop_from_scratch))
-9. 采用Keras的循环神经网络([翻译版]()，[原版](https://www.tensorflow.org/guide/keras/rnn))
+9. 采用Keras的循环神经网络([翻译版](https://github.com/Carloszone/Tensorflow-Keras-tutorial-Tensorflow-Keras-/blob/main/Keras/Recurrent%20Neural%20Networks%20(RNN)%20with%20Keras.ipynb)，[原版](https://www.tensorflow.org/guide/keras/rnn))
 10. Keras 中的遮盖和填充([原版/官中版](https://www.tensorflow.org/guide/keras/masking_and_padding))
 11. 编写自己的回调函数 ([原版/官中版](https://www.tensorflow.org/guide/keras/custom_callback))
 12. 迁移学习和微调 ([原版/官中版](https://www.tensorflow.org/guide/keras/transfer_learning))
-13. 使用TensorFlow Cloud来训练Keras模型([翻译版]()，[原版](https://www.tensorflow.org/guide/keras/training_keras_models_on_cloud))
+13. 使用TensorFlow Cloud来训练Keras模型([翻译版](https://github.com/Carloszone/Tensorflow-Keras-tutorial-Tensorflow-Keras-/blob/main/Keras/Training%20Keras%20models%20with%20TensorFlow%20Cloud.ipynb)，[原版](https://www.tensorflow.org/guide/keras/training_keras_models_on_cloud))
 
