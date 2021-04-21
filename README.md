@@ -1,5 +1,10 @@
 # Tensorflow/Keras-tutorial | TensorFlow/Keras 教程
 ## introduction
+
+I notice that TensorFlow doesn't offer Chinese version tutorial/learning material in part of chapters for Chinese users, and the TensorFlow community ['docs-zh-cn@tensorflow.org Google Group'](https://groups.google.com/access-error?continue=https://groups.google.com/a/tensorflow.org/g/docs-zh-cn) that provides Chinese translate service is unavailable now. So, I decide to create a project to translate the TensorFlow/Keras tutorial for Chinese users.
+
+我注意到TensorFlow的一些教程和学习资料并没有为中国用户提供中文版本，且无法联系上提供翻译内容的TensorFlow社区['docs-zh-cn@tensorflow.org Google Group'](https://groups.google.com/access-error?continue=https://groups.google.com/a/tensorflow.org/g/docs-zh-cn)。所以我决定创建一个项目来为中文用户翻译TensorFlow/Keras的教程内容。
+
 The features of this project are:
 1. offer TensorFlow Keras officical tutorial guide Chinese version
 2. add my personal comments/notes in each chapter
@@ -20,7 +25,7 @@ Note:
 2. 囿于本人的英文水平和机器学习知识储备，中文版本不可避免的会含有一些错误，欢迎指出
 3. TensorFlow Keras已经提供了部分内容的官方中文版本，你可以在对应的指导页面通过切换语言的方式来查看官中版本.
 4. 如果某章节已经存在官中版本，我会在目录中注明并不再翻译这些内容.
-5. 对于没有官中版本的内容，我会提供翻译版和原版的链接。对于有官中版本的内容，如果我已经完成翻译工作，我会提供翻译版的联结。如果我还没有完成翻译工作（之后也不会在翻译了），我会提供官中版本的链接（官中版本和原版是相同的联结，显示的语言由页面的语言设定所决定）
+5. 对于没有官中版本的内容，我会提供翻译版和原版的链接。对于有官中版本的内容，如果我已经完成翻译工作，我会提供翻译版的链接。如果我还没有完成翻译工作（之后也不会在翻译了），我会提供官中版本的链接（官中版本和原版是相同的联结，显示的语言由页面的语言设定所决定）
 
 ## Catalog
 1. The Sequential model
